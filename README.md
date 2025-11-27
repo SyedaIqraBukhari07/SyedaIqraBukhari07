@@ -3,11 +3,14 @@
 💻 *Frontend Developer* | 🌐 *React Enthusiast*  
 
 🚀 I love creating responsive and modern web applications using:  
-- JavaScript , HTML, CSS  
+- JavaScript , HTML, CSS
+- Typescript
+- TailwindCSS 
 - React, Bootstrap 
-- Git & GitHub  
+- Git & GitHub
+  
 
-📚 Currently learning: *Advanced React Hooks *  
+📚 Currently learning: *Next.js *  
 🌱 Passionate about building real-world projects and improving UI/UX  
 
 <h3 align="left">Connect with me:</h3>
