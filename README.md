@@ -10,7 +10,7 @@
 - Git & GitHub
   
 
-📚 Currently learning: *Next.js *  
+📚 Currently learning: *React Native*  
 🌱 Passionate about building real-world projects and improving UI/UX  
 
 <h3 align="left">Connect with me:</h3>
